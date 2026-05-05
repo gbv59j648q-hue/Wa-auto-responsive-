@@ -1,2 +1,16 @@
-# Wa-auto-responsive-
-Resmi dan Terpercaya!
+{
+  "name": "wa-auto-responsive",
+  "version": "1.0.0",
+  "description": "RESMI TERPERCAYA!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.2.1",
+    "dotenv": "^16.4.5",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.23.0"
+  }
+}
+
